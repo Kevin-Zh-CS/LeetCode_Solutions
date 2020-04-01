@@ -77,7 +77,7 @@
 
 
 
-Here is my solution with Java, and this solution applies the [aforementioned template](https://github.com/Kevin-Zh-CS/LeetCode_Solutions/blob/master/Backtracking/Backtracking algorithm summary.md).
+Here is my solution with Java, and this solution applies the [aforementioned template](https://github.com/Kevin-Zh-CS/LeetCode_Solutions/blob/master/Backtracking/Backtracking%20algorithm%20summary.md).
 
 ```java
 import java.util.ArrayList;
