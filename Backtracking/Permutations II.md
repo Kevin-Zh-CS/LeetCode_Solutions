@@ -1,6 +1,6 @@
 ## Permutations II
 
-* <font face="微软雅黑" size = 4>这是`Permutations I`的进阶版</font>
+* <font face="微软雅黑" size = 4>This is advanced `Permutations I`</font>
 
 ```
 Example
