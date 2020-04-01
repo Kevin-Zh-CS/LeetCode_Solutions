@@ -9,7 +9,7 @@ Output: [[1,1,2],[1,2,1],[2,1,1]]
 ```
 
 ```java
-package Permutations_2;
+//By K
 
 import java.io.BufferedReader;
 import java.io.IOException;
