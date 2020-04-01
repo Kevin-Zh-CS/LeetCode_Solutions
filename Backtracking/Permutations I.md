@@ -1,6 +1,6 @@
 ## Permutations I
 
-* <font face="微软雅黑" size = 4>全排列是一种非常经典的Backtrack问题</font>
+* <font face="微软雅黑" size = 4>Full permutation is a very classic Backtrack problem</font>
 
 ```
 Example
