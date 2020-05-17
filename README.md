@@ -1,1 +1,1 @@
-# LeetCode_Solutions
+# Just some algorithms
